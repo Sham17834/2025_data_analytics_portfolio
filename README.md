@@ -16,9 +16,9 @@ I enjoy transforming raw datasets into meaningful insights that support decision
 My projects cover a wide range of industries — from **e-commerce** and **finance** to **public health** and **entertainment analytics**.
 
 📫 **Let’s Connect:**  
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 🐙 [GitHub](https://github.com/your-username)  
-- ✉️ [your.email@example.com]
+- 💼 [LinkedIn](linkedin.com/in/sham-soon-yong-6143a0368)  
+- 🐙 [GitHub]([https://github.com/your-username](https://github.com/Sham17834/data-analyst-portfolio))  
+- ✉️ [soonyongsham@gmail.com]
 
 ---
 

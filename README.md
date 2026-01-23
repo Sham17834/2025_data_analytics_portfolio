@@ -17,7 +17,7 @@ My projects cover a wide range of industries — from **e-commerce** and **finan
 
 **Let’s Connect:**  
 - [LinkedIn](linkedin.com/in/sham-soon-yong-6143a0368)  
-- [GitHub]([https://github.com/your-username](https://github.com/Sham17834/data-analyst-portfolio))  
+- [GitHub]([[https://github.com/your-username](https://github.com/Sham17834/data-analyst-portfolio](https://github.com/Sham17834/data-analyst-portfolio)))  
 - [soonyongsham@gmail.com]
 
 ---

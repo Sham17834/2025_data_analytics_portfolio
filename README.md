@@ -7,7 +7,7 @@
 
 ---
 
-## 💼 About Me
+## About Me
 
 Hello! 👋 I’m a **Data Analyst** passionate about uncovering insights and telling stories through data.  
 I specialize in **data cleaning**, **visual analytics**, and **interactive dashboard design** using **Python, Power BI, Tableau, and SQL**.  
@@ -15,17 +15,17 @@ I specialize in **data cleaning**, **visual analytics**, and **interactive dashb
 I enjoy transforming raw datasets into meaningful insights that support decision-making and drive results.  
 My projects cover a wide range of industries — from **e-commerce** and **finance** to **public health** and **entertainment analytics**.
 
-📫 **Let’s Connect:**  
-- 💼 [LinkedIn](linkedin.com/in/sham-soon-yong-6143a0368)  
-- 🐙 [GitHub]([https://github.com/your-username](https://github.com/Sham17834/data-analyst-portfolio))  
-- ✉️ [soonyongsham@gmail.com]
+**Let’s Connect:**  
+- [LinkedIn](linkedin.com/in/sham-soon-yong-6143a0368)  
+- [GitHub]([https://github.com/your-username](https://github.com/Sham17834/data-analyst-portfolio))  
+- [soonyongsham@gmail.com]
 
 ---
 
-## 🗂️ Project Overview
+## Project Overview
 
 <details>
-<summary>🎬 <strong>1950–2025 Movie Analysis</strong> (Excel | Tableau)</summary>
+<summary><strong>1950–2025 Movie Analysis</strong> (Excel | Tableau)</summary>
 
 **Files:**  
 - `Movie Analytics Dashboard 1950–2025.xlsx`  
@@ -34,7 +34,7 @@ My projects cover a wide range of industries — from **e-commerce** and **finan
 **Description:**  
 Analyzes global movie trends from **1950 to 2025**, exploring box office performance, genre evolution, and audience preferences.
 
-**✨ Highlights:**
+** Highlights:**
 - Explored historical patterns of film production growth.  
 - Visualized genre popularity and revenue trends over decades.  
 - Interactive Tableau dashboard for timeline exploration.
@@ -44,7 +44,7 @@ Analyzes global movie trends from **1950 to 2025**, exploring box office perform
 ---
 
 <details>
-<summary>🏠 <strong>Power BI Dashboards</strong> (Power BI)</summary>
+<summary><strong>Power BI Dashboards</strong> (Power BI)</summary>
 
 **Files:**  
 - `Malaysia House Price Dashboard.pbix`  
@@ -54,7 +54,7 @@ Analyzes global movie trends from **1950 to 2025**, exploring box office perform
 **Description:**  
 Developed multiple **Power BI dashboards** to analyze real estate data and professional survey responses.
 
-**✨ Highlights:**
+** Highlights:**
 - Drill-down filters for region & demographic analysis.  
 - DAX measures for custom KPIs and time-series visualization.  
 - Clean, professional dashboard design for insight storytelling.
@@ -64,7 +64,7 @@ Developed multiple **Power BI dashboards** to analyze real estate data and profe
 ---
 
 <details>
-<summary>🐍 <strong>Python Projects</strong> (Jupyter Notebooks)</summary>
+<summary><strong>Python Projects</strong> (Jupyter Notebooks)</summary>
 
 **Files:**  
 - `University_Students'_Mental_Health.ipynb`  
@@ -75,7 +75,7 @@ Developed multiple **Power BI dashboards** to analyze real estate data and profe
 **Description:**  
 Python-based analyses exploring **mental health among university students** and **U.S. oil & gas production patterns**.
 
-**✨ Techniques:**
+** Techniques:**
 - Data cleaning and preprocessing (Pandas, NumPy).  
 - Visualization (Matplotlib, Seaborn).  
 - Correlation and trend analysis.  
@@ -94,7 +94,7 @@ Python-based analyses exploring **mental health among university students** and 
 **Description:**  
 An end-to-end SQL analysis on retail transaction data, identifying sales patterns and customer behavior.
 
-**✨ Highlights:**
+** Highlights:**
 - Aggregated KPIs using `GROUP BY` and `JOIN` queries.  
 - Segmentation of top-performing customers and regions.  
 - Query optimization for data retrieval efficiency.
@@ -113,7 +113,7 @@ An end-to-end SQL analysis on retail transaction data, identifying sales pattern
 **Description:**  
 Interactive Tableau dashboards focusing on **real estate trends** and **sales performance analytics**.
 
-**✨ Highlights:**
+** Highlights:**
 - Designed interactive filters for region and time period.  
 - Created sales and KPI scorecards with comparative visuals.  
 - Delivered a clear narrative-driven visualization.
@@ -123,7 +123,7 @@ Interactive Tableau dashboards focusing on **real estate trends** and **sales pe
 ---
 
 <details>
-<summary>🛍️ <strong>Shopee E-Commerce Data Analysis</strong> (Python | SQL | Power BI)</summary>
+<summary><strong>Shopee E-Commerce Data Analysis</strong> (Python | SQL | Power BI)</summary>
 
 **Files:**  
 - `Shopee E-commerce Data Analytics.ipynb`  
@@ -140,7 +140,7 @@ A full data analytics workflow for **Shopee’s e-commerce dataset**, integratin
 2. **Python:** Exploratory data analysis and trend visualization.  
 3. **Power BI:** KPI and performance dashboards.
 
-**✨ Key Insights:**
+** Key Insights:**
 - Identified top-performing products and seasonal sales patterns.  
 - Enhanced decision-making through visual sales trend tracking.  
 
@@ -148,14 +148,14 @@ A full data analytics workflow for **Shopee’s e-commerce dataset**, integratin
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 | Category | Tools |
 |-----------|--------|
-| 💻 Programming | Python (Pandas, NumPy, Matplotlib, Seaborn) |
-| 📊 Visualization | Power BI, Tableau |
-| 🗄️ Data Querying | SQL, SQLite, MySQL |
-| 📈 Data Processing | Excel, CSV |
-| 🤖 Analytics | EDA, KPI Metrics, Trend Analysis |
+| Programming | Python (Pandas, NumPy, Matplotlib, Seaborn) |
+| Visualization | Power BI, Tableau |
+| Data Querying | SQL, SQLite, MySQL |
+| Data Processing | Excel, CSV |
+| Analytics | EDA, KPI Metrics, Trend Analysis |
 
 ---

@@ -85,7 +85,7 @@ Python-based analyses exploring **mental health among university students** and 
 ---
 
 <details>
-<summary>🧾 <strong>SQL Retail Analytics</strong> (MySQL / SQLite)</summary>
+<summary><strong>SQL Retail Analytics</strong> (MySQL / SQLite)</summary>
 
 **Files:**  
 - `Online Retail.csv`  
@@ -104,7 +104,7 @@ An end-to-end SQL analysis on retail transaction data, identifying sales pattern
 ---
 
 <details>
-<summary>📊 <strong>Tableau Projects</strong> (Visualization Dashboards)</summary>
+<summary><strong>Tableau Projects</strong> (Visualization Dashboards)</summary>
 
 **Files:**  
 - `House Price.twb`  
